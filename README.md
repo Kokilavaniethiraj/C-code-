@@ -1,5 +1,5 @@
 # C-code-
-Patterns in C language
+Square star patterns in C language
 
 
 #include <stdio.h>
